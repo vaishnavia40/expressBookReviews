@@ -1,7 +1,8 @@
 let books = {
       1: {"author": "Chinua Achebe","title": "Things Fall Apart", "reviews": {} },
       2: {"author": "Hans Christian Andersen","title": "Fairy tales", "reviews": {} },
-      3: {"author": "Dante Alighieri","title": "The Divine Comedy", "reviews": {} },
+      3: {"author": "Dante Alighieri","title": "The Divine Comedy", "reviews": {1: "An epic poem that deeply explores the themes of sin, redemption, and the human experience.",
+            2: "A masterpiece of literature that takes you on a profound journey through the afterlife."} },
       4: {"author": "Unknown","title": "The Epic Of Gilgamesh", "reviews": {} },
       5: {"author": "Unknown","title": "The Book Of Job", "reviews": {} },
       6: {"author": "Unknown","title": "One Thousand and One Nights", "reviews": {} },
